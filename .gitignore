@@ -29,9 +29,7 @@ env/
 floci/data-*/
 
 # Dataset files (generated/downloaded — không commit)
-dataset/data-*.csv
-dataset/dts/
-dataset/iac-eval/
+
 
 # Generated files
 core/.check_ids.json
